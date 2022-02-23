@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short information from the Commission of the Generall Assembly concerning the declaration of the honourable court of Parliament lately emitted to the Kingdome.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33122</idno>
+            <idno type="STC">Wing C4259C</idno>
+            <idno type="STC">ESTC R35586</idno>
+            <idno type="EEBO-CITATION">15367966</idno>
+            <idno type="OCLC">ocm 15367966</idno>
+            <idno type="VID">103545</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33122)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103545)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1148:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short information from the Commission of the Generall Assembly concerning the declaration of the honourable court of Parliament lately emitted to the Kingdome.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+                  <author>Ker, A.</author>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted at Edinburgh, and re-printed at London for Joseph Hunscot,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through and loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103545:1"/>
+            <!-- PDF PAGE 76 -->
+            <pb facs="tcp:103545:1"/>
+            <!-- PDF PAGE 76 -->
+            <p>A SHORT INFORMATION FROM THE COMMISSION OF THE GENERALL ASSEMBLY, Concerning the DECLARATION OF THE HONOURABLE COURT OF PARLIAMENT, Lately emitted to the KINGDOME.</p>
+            <p>Imprinted at <hi>Edenburgh,</hi> and re-printed at <hi>London</hi> for <hi>Joſeph Hunſcot.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:103545:2"/>
+            <!-- PDF PAGE 77 -->
+            <pb n="1" facs="tcp:103545:2"/>
+            <!-- PDF PAGE 77 -->
+            <opener>
+               <dateline>Edinburgh <date>5. May,1648.</date>
+               </dateline>
+            </opener>
+            <head>A SHORT INFORMATION FROM THE COMMISSION OF THE GENERALL ASSEMBLY, <hi>Concerning</hi> The Declaration of the Honourable Court of PARLIAMENT, Lately emitted to the Kingdom.</head>
+            <p n="1">1 <seg rend="decorInit">A</seg>Lthough in the anſwer of <hi>April,</hi> 22. which we received in writing from the Honourable Court of Parliament, we are remitted to their Lordſhips Declaration (now printed and publiſhed) therein to finde ſatisfacti<g ref="char:EOLhyphen"/>on
+<pb n="2" facs="tcp:103545:3"/>
+               <!-- PDF PAGE 78 -->our eight deſires, preſented to the Parlia<g ref="char:EOLhyphen"/>ment March 22. And although theſe deſires were ſuch as were moſt agreeable to the word of God, and doe highly concern the ſafety and ſe<g ref="char:EOLhyphen"/>curity of religion; yet, after diligent peruſall of the ſaid Declaration of Parliament, wee can not finde therein any one of theſe our eight deſires ſatisfied.</p>
+            <p n="2">2 Wee finde twice in the ſaid Declarati<g ref="char:EOLhyphen"/>on a paſſage cited out of the Declarati<g ref="char:EOLhyphen"/>on of both Kingdomes, 1643. <hi>viz.</hi> That the not takers of the Covenant are declared to be publike enemies to Religion and Country, and to bee puniſhed as profeſſed adverſaries and Ma<g ref="char:EOLhyphen"/>lignants: But while this paſſage is preſſed and urged upon the Parliament of <hi>England</hi> againſt the Sectaries, wee cannot ſee that it is applied againſt ſuch Malignants, as have not to this day taken the Covenant, Shall wee require of them the obſerving of ſuch a rule, and not yet walk by that rule our ſelves.</p>
+            <p n="3">3 As the three breaches of Treaties inſiſted upon in the ſaid Declaration are diſputable, and not without controverſie, ſo the three demands ſent to the Parliament of <hi>England</hi> (as they are conceived) are of moſt dangerous conſequence to Religion, ſo far as wee are able to judge of them, or pry into them: And although wee are reall well-wiſhers to his Majeſties Honour, free<g ref="char:EOLhyphen"/>dome
+<pb n="3" facs="tcp:103545:3"/>
+               <!-- PDF PAGE 78 -->and ſafety, in ſuch a way as may not be inconſiſtent with the ſafety and ſecurity of Religion; yet the demand of his Majeſties com<g ref="char:EOLhyphen"/>ming with Honour, Freedom, and Safety to ſome of his Houſes in or neare <hi>London,</hi> before ſecurity had from him, yea before applications to be made to him by his Parliaments for ſetling Religion according to the Covenant, we conceive to be not onely a poſtponing of Chriſts intereſt to the Kings, but an apparent hazzard of the ſubver<g ref="char:EOLhyphen"/>ſion of all the Ends of the Covenant; conſide<g ref="char:EOLhyphen"/>ring, that the Army being disbanded (as is alſo demanded) and his Majeſty under no reſtraint, but reſtored with Honour, Freedom, and Safe<g ref="char:EOLhyphen"/>ty, may gather new ſtrength with the helpe of the Popiſh, Prelaticall, and Malignant party for hin<g ref="char:EOLhyphen"/>dring the ſetling of Religion and Peace according to the Covenant; which we have the more rea<g ref="char:EOLhyphen"/>ſon to feare and apprehend, his Majeſty ſtill retain<g ref="char:EOLhyphen"/>ning his old Principles, and having not long ſince profeſſed and declared, that he is obliged in Conſcience to improve that power which God ſhall put in his hands for the eſtabliſhing of E<g ref="char:EOLhyphen"/>piſcopacy.</p>
+            <p n="4">4 There are in the ſaid Declaration divers par<g ref="char:EOLhyphen"/>ticulars highly concerning Religion, determined and reſolved upon, without the advice and con<g ref="char:EOLhyphen"/>ſent of the Generall Aſſembly or their Commiſſio<g ref="char:EOLhyphen"/>ners; which is a great prejudice to the juſt intereſt and liberties of the Kirk.</p>
+            <p n="5">
+               <pb n="4" facs="tcp:103545:4"/>
+               <!-- PDF PAGE 79 -->
+5 We doe not finde in the ſaid Declaration all lawfull and poſſible wayes of Peace, and namely by Treaties (as before, in 1639. and 1640.) en<g ref="char:EOLhyphen"/>deavoured or ſought after, before an ingagement in warre; which method we conceive to be neceſ<g ref="char:EOLhyphen"/>ſary as well by common and naturall equity as by the Word of God, and eſpecially between two Kingdomes united by Solemn Covenant.</p>
+            <p n="6">6 The Declaration holds forth no reſolution of Parliament for oppoſing and ſuppreſſing of the Popiſh, Prelaticall, or Malignant party if they riſe againe in Armes, but only againſt aſſociating or joyning forces with them, and not ſo much as that, except with limitations in caſe they be refuſers to ſweare and ſubſcribe the Covenant; and in caſe they riſe in Armes to oppoſe or obſtruct all, or any one of the ends of the Covenant. Whereas it may be eaſily foreſeene, that if the Popiſh, Prelaticall, or Malignant Party riſe againe in Armes in <hi>England,</hi> they cannot only conceale their intentions againſt the ends of the Covenant, but alſo be eaſily exemp<g ref="char:EOLhyphen"/>ted from being reckoned refuſers of the Covenant, the Covenant not being now impoſed upon them; and being once ſuffered to riſe in Armes (as ſome are already) may grow ſo ſtrong as that it will be very hard and difficult to ſuppreſſe them.</p>
+            <p n="7">7 Whereas we have inſiſted for ſatisfaction to our Conſciences concerning the perſons to be en<g ref="char:EOLhyphen"/>truſted with the managing of the warre, and that
+<pb n="5" facs="tcp:103545:4"/>
+               <!-- PDF PAGE 79 -->none may be imployed in Committees and Armies but ſuch as have given conſtant proof of their in<g ref="char:EOLhyphen"/>tegrity and faithfulneſſe, and againſt whom there is no juſt cauſe of jealouſie; that ſo we may the more confidently encourage our flocks to follow the cauſe of God in their hands: the Declaration in ſtead of ſatisfying this deſire, doth avoyd and keep off from theſe qualifications deſired by us, and ſo leaves a latitude for employing ſuch as theſe qualifications do not agree to.</p>
+            <p>Finally, as we neither were, nor are againſt an engagement, if once ſatisfied in the grounds of undertaking, and manner of proceeding, and the other particulars expreſſed in our former papers; So for the reaſons before mentioned, and divers others fully expreſſed in our Repreſentation upon the Declaration, we judge the preſent engagement as it is ſtated, unlawfull; and truſt that all the well affected in the Kingdom will make conſcience of their Solemn Vowes, and will be carefull by the grace and aſſiſtance of God to keep themſelves from being enſnared and carried along in any courſe contrary to the Covenant.</p>
+            <closer>
+               <signed>A. Ker.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
